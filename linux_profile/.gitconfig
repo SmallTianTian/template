@@ -1,0 +1,7 @@
+[user]
+	name = tick
+	email = tianxuxin@126.com
+[core]
+	excludesfile = ~/.gitignore
+[credential]
+	helper = store
